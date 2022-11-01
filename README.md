@@ -6,26 +6,25 @@
 
 ## Project Details
 
-> This is a project created using HTML, CSS and JavaScript to show my knowledge of them.
+> This is a project created using HTML, CSS and ES6 to show my knowledge of them.
 
 ## Built With
 
 - HTML
 - CSS
-- Javascript
+- ES6
 
 ## Additional Tools
 
 - WebHint
 - Stylelint
 - Node Packet Manager
-- Github Pages
+
 
 
 ## Getting Started
 
-set up a new repository and prepare it for development using best practices (e.g. linters).
-build the first required sections of the website using the template you chose in the previous step.
+Clone this repository and run 'npm install' to install all dependencies
 
 ### Prerequisites
 
@@ -51,18 +50,18 @@ build the first required sections of the website using the template you chose in
 
 for https:
 ```
-    git clone https://github.com/lukman155/htmlcsscapstone.git
+    git clone https://github.com/lukman155/awesome-books.git
 ```
 for ssh:
 ```
-    git clone git@github.com:lukman155/htmlcsscapstone.git
+    git clone git@github.com:lukman155/awesome-books.git
 
 ```
 
 ### Usage
 
 - After Cloning this repo to your local machine
-- Open the `index.html` in your browser
+- Open the `src/index.html` in your browser
 
 ## Authors
 
