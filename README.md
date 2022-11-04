@@ -40,7 +40,7 @@ Clone this repository and run 'npm install' to install all dependencies
 
 ### Live Demo
 
-[Live Demo Link](################)
+[Live Demo Link](https://lukman155.github.io/awesome-books/)
 
 
 ### Setup
